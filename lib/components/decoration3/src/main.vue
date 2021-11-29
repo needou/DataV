@@ -6,7 +6,6 @@
         v-for="(point, i) in points" :key="i"
       >
         <rect
-
           :fill="mergedColor[0]"
           :x="point[0] - halfPointSideLength"
           :y="point[1] - halfPointSideLength"
