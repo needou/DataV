@@ -1,6 +1,6 @@
 {
   "name": "data-view-new",
-  "version": "2.10.0",
+  "version": "2.10.1",
   "author": "Starter <4532413@qq.com>",
   "description": "Vue Large screen data display component library",
   "main": "lib/index.js",
