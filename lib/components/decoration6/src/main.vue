@@ -5,6 +5,7 @@
         v-for="(point, i) in points"  :key="i"
       >
         <rect
+
           :fill="mergedColor[Math.random() > 0.5 ? 0 : 1]"
           :x="point[0] - halfRectWidth"
           :y="point[1] - heights[i] / 2"
